@@ -31,7 +31,8 @@ Nada's groups:
  mongodb://atlasDB:atlasDB@cluster0-shard-00-00.vt5cm.mongodb.net:27017,cluster0-shard-00-01.vt5cm.mongodb.net:27017,cluster0-shard-00-02.vt5cm.mongodb.net:27017/?ssl=true&replicaSet=atlas-1qb2ed-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
 ```
 Ziad's groups:
-``` 
+```
+mongodb://ZiadElsabbagh:Ziad1234@ac-c8umrgv-shard-00-00.ehcvpo6.mongodb.net:27017,ac-c8umrgv-shard-00-01.ehcvpo6.mongodb.net:27017,ac-c8umrgv-shard-00-02.ehcvpo6.mongodb.net:27017/?ssl=true&replicaSet=atlas-uux8uh-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Ziad 
  ```
 Mabrook's groups:
 ``` 
