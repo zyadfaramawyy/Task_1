@@ -34,8 +34,9 @@ Ziad's groups:
 ```
 mongodb://ZiadElsabbagh:Ziad1234@ac-c8umrgv-shard-00-00.ehcvpo6.mongodb.net:27017,ac-c8umrgv-shard-00-01.ehcvpo6.mongodb.net:27017,ac-c8umrgv-shard-00-02.ehcvpo6.mongodb.net:27017/?ssl=true&replicaSet=atlas-uux8uh-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Ziad 
  ```
-Mabrook's groups:
-``` 
+Mabrouk's groups:
+ ```
+ mongodb://gucACL:ACL123@ac-kvelmry-shard-00-00.klnokrh.mongodb.net:27017,ac-kvelmry-shard-00-01.klnokrh.mongodb.net:27017,ac-kvelmry-shard-00-02.klnokrh.mongodb.net:27017/?ssl=true&replicaSet=atlas-p1sm0e-shard-0&authSource=admin&retryWrites=true&w=majority&appName=mabrouk
  ```
 Karim's groups:
 ``` 
