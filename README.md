@@ -40,6 +40,7 @@ Mabrouk's groups:
  ```
 Karim's groups:
 ``` 
+mongodb://karimahmedx12345_db_user:3j4pXtepJOOqUwdH@ac-8s5sv3m-shard-00-00.sytujrt.mongodb.net:27017,ac-8s5sv3m-shard-00-01.sytujrt.mongodb.net:27017,ac-8s5sv3m-shard-00-02.sytujrt.mongodb.net:27017/?ssl=true&replicaSet=atlas-k9r7jp-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
  ```
 
 # Testing
