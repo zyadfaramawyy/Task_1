@@ -58,7 +58,7 @@ API listening on http://localhost:4000
 # TODO:
 - Implement the function updatePerk 
 - Tets it on postman 
-- Push it on Github (check the manual if you struggel)
+- Push it on Github (check the manual if you struggle)
 - Show your TA for grading
 
 
